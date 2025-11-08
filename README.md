@@ -1,9 +1,9 @@
-# WeatherAPO ☀️🌧️
+# WeatherApp ☀️🌧️
 
 Aplicativo desenvolvido como parte da Atividade Prática Orientada (APO) da disciplina **Programação de Dispositivos Móveis**.
 
 ## 📱 Descrição
-O **WeatherAPO** é um aplicativo Android simples que demonstra a navegação entre telas utilizando **Java** e **XML** no **Android Studio**.
+O **WeatherApp** é um aplicativo Android simples que demonstra a navegação entre telas utilizando **Java** e **XML** no **Android Studio**.
 
 O app possui duas telas principais:
 - **Tela Principal:** exibe o nome do app e um botão “Sobre”.
